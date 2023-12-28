@@ -1,0 +1,22 @@
+{
+  "name": "mymocjs",
+  "version": "1.0.0",
+  "description": "A pure js package which will take an array as and input",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashmidimpi/Js_Package.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Rashmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rashmidimpi/Js_Package/issues"
+  },
+  "homepage": "https://github.com/Rashmidimpi/Js_Package#readme"
+}
